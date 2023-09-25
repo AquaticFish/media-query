@@ -11,7 +11,15 @@ section{
 
 @media screen and (max-width: 50em) {
   body {
-    background-color: hsl(0, 0%, 16%);
-    color: white;
+    background-color:  hsl(49, 93%, 70%);
   }
 }
+
+@media screen and (max-width: 50em) {
+  nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
