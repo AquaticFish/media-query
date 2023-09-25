@@ -7,6 +7,7 @@ nav ul {
   display: flex;
   justify-content: end;
   color: hsl(0, 0%, 99%);
+  max-width: auto;
 }
 
 nav a{
